@@ -11,7 +11,7 @@ A very basic game server written in [Rust](https://www.rust-lang.org/) utilizing
 - [x] Multithreaded AI behaviour processors
 - [x] AI behaviour controller
 - [ ] AI pathfinding
-- [ ] Child transform sync
+- [ ] Milfs are best
 - [ ] Authentication
 - [ ] Spatial hashing interest management
 - [ ] Map interest management
